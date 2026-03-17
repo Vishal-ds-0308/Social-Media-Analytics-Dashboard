@@ -246,5 +246,5 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 ## 👤 Author
 
 **Vishal**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: Vishal-ds-0308 
 - Dataset: `Social_Media_Analytics_2024_8k.csv` — 8,000 posts across Instagram, YouTube & Facebook (2024)
