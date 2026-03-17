@@ -1,4 +1,4 @@
-# 📊 Social Media Analytical Dashboard
+# 📊 Social Media Analytics Dashboard
 
 > A comprehensive social media analytics project that analyses **8,000 posts** across **Instagram, YouTube, and Facebook** throughout 2024 — uncovering peak engagement times, best-performing content formats, platform-wise trends, and day-by-day performance insights using Python and Power BI.
 
